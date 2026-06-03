@@ -7,3 +7,5 @@ Currently unfinished, so no releases yet. Feel free to scrounge around the files
 If you want to launch it in its current state, you're going to need LOVE2D, which is a Lua framework. [Download LOVE2d here, if you so desire](https://love2d.org/)\
 \
 Again, though, please note that this is an unfinished project! The game has no exe yet, the above is just if you wanted to run it despite that.
+\
+As well as this, if you look through the code, you will see .bcfnt and .t3x files. These are actually formats for font and image files for the 3DS! This is because, originally, I was developing this game as a homebrew 3DS application. However, I've since switched it to PC for ease of use and, admittedly, ease of programming, because I ran into some annoying issues. In the future, I may make a 3DS port, though.
